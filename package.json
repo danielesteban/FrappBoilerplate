@@ -1,0 +1,20 @@
+{
+	"name" : "FrappBoilerplate",
+	"version" : "0.0.1",
+	"description" : "A Frapp Boilerplate with all modules ready to rock.",
+	"author" : "Daniel Esteban Nombela <dani@hellacoders.com>",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/danielesteban/FrappBoilerplate.git"
+	},
+	"modules" : [
+		"jquery",
+		"bootstrap",
+		"handlebars",
+		"less",
+		"lang",
+		"router",
+		"session"
+	],
+	"main" : "index.html"
+}
